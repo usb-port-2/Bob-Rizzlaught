@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="bob-angry" y="0" isGF="false" color="#FFFFFF" isPlayer="false" sprite="bob-mad">
+	<anim x="0" loop="false" y="0" fps="24" anim="idle" name="idle"/>
+	<anim x="-1" loop="false" y="20" fps="24" anim="up" name="singUP"/>
+	<anim x="5" loop="false" y="-25" fps="24" anim="down" name="singDOWN"/>
+	<anim x="25" loop="false" y="10" fps="24" anim="left" name="singLEFT"/>
+	<anim x="0" loop="false" y="-3" fps="24" anim="right" name="singRIGHT"/>
+</character>

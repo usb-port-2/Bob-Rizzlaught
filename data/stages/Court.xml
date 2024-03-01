@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.55" name="sunshine" folder="stages/court/">
+	<sprite name="sky" x="-720" y="-600" sprite="sky" scale="2.9"/>
+	<sprite name="hills" x="-890" y="-700" sprite="hills" scale="1.8" scrollx="0.55" scrolly="1.1"/>
+	<sprite name="wall" x="-1190" y="-800" sprite="wall" scrollx="0.75" scrolly="1.05" scale="2.1"/>
+	<sprite name="seats" x="-1200" y="-600" sprite="bgseats" scale="1.7" scrollx="0.85" scrolly="1.05"/>
+	<sprite name="ground" x="-1210" y="-600" sprite="ground" scale="1.7"/>
+	<dad x="-1500" y="-500"/>
+	<boyfriend x="-100" y="-200"/>
+	<sprite name="stairs" x="-1400" y="-150" sprite="fgleft" scale="1.89" scrollx="1.25" scrolly="0.9"/>
+	<girlfriend x="800" y="-100" scrollx="1.25" scrolly="0.9" scale="1.89"/>
+</stage>

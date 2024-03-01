@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.75" name="sunshine" folder="stages/withered/">
+	<sprite name="sky" x="-720" y="-600" sprite="sky" scale="2.9"/>
+	<sprite name="sun" x="-20" y="-175" sprite="sun" scale="1.3" scrollx="0.3" scrolly="0.6"/>
+	<sprite name="clouds" x="-20" y="-325" sprite="clouds" scale="1.5" scrollx="0.35" scrolly="0.65"/>
+	<sprite name="rocks" x="109" y="-60" sprite="mountains" scrollx="1.1" scrolly="1" scale="2.1"/>
+	<sprite name="ground" x="-100" y="-200" sprite="ground" scale="1.9"/>
+	<girlfriend x="300" y="-125"/>
+	<dad y="200"/>
+	<boyfriend y="-150"/>
+</stage>

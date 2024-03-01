@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="shuttleman" y="0" isGF="false" color="#FFFFFF" isPlayer="false" sprite="shuttleman">
+	<anim x="0" loop="false" y="0" fps="24" anim="idle" name="idle"/>
+	<anim x="245" loop="false" y="423" fps="24" anim="up" name="singUP"/>
+	<anim x="-150" loop="false" y="-115" fps="24" anim="down" name="singDOWN"/>
+	<anim x="865" loop="false" y="-291" fps="24" anim="left" name="singLEFT"/>
+	<anim x="-100" loop="false" y="342" fps="24" anim="right" name="singRIGHT"/>
+</character>

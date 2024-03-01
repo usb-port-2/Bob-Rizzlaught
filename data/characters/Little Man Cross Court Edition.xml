@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="lil" y="0" isGF="false" color="#FFFFFF" isPlayer="false" sprite="court-little-man">
+	<anim x="0" loop="false" y="0" fps="24" anim="idle" name="idle"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="laugh" name="sad"/>
+</character>

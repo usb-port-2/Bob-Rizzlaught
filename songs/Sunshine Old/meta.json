@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 185,
+	"difficulties": [
+		"OLD"
+	],
+	"needsVoices": true,
+	"parsedColor": -5263441,
+	"displayName": "Sunshine Old",
+	"icon": "old",
+	"name": "Sunshine Old",
+	"color": "#AFAFAF",
+	"customValues": {}
+}

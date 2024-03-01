@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="ron" y="0" isGF="false" color="#FFF200" flipX="true" isPlayer="false" gameOverChar="Ron Cross Court Edition" sprite="court-ron">
+	<anim x="0" loop="false" y="0" fps="24" anim="idle" name="idle"/>
+	<anim x="35" loop="false" y="105" fps="24" anim="up0" name="singUP"/>
+	<anim x="45" loop="false" y="105" fps="24" anim="up_miss" name="singUPmiss"/>
+	<anim x="65" loop="false" y="-65" fps="24" anim="right0" name="singLEFT"/>
+	<anim x="65" loop="false" y="-65" fps="24" anim="right_miss" name="singLEFTmiss"/>
+	<anim x="75" loop="false" y="0" fps="24" anim="down0" name="singDOWN"/>
+	<anim x="80" loop="false" y="10" fps="24" anim="down_miss" name="singDOWNmiss"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="left0" name="singRIGHT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="left_miss" name="singRIGHTmiss"/>
+	<anim x="90" loop="false" y="-55" fps="24" anim="rondies" name="firstDeath"/>
+	<anim x="105" loop="false" y="-45" fps="24" anim="deadron" name="deathLoop"/>
+	<anim x="105" loop="false" y="-45" fps="24" anim="deadron" name="deathConfirm"/>
+</character>

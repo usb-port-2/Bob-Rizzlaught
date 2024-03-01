@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 170,
+	"difficulties": [
+		"ARACHIS"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "Arachis",
+	"icon": "peanut",
+	"name": "Arachis",
+	"color": "#FFFFFF",
+	"customValues": {}
+}
