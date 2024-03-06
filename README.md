@@ -1,4 +1,4 @@
-# Friday Nignt Funkin' - Vs Bob's Reslaught
+# Friday Night Funkin' - Vs Bob's Reslaught
 ### Codename Engine modpack build
 
 #### Want to download it as an executable file? Click [here](https://gamebanana.com/wips/83136)!
