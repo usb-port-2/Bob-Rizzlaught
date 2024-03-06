@@ -9,9 +9,8 @@
 - [MacOS build](https://nightly.link/FNF-CNE-Devs/CodenameEngine/workflows/macos/main/Codename%20Engine.zip)
 - [Linux build](https://nightly.link/FNF-CNE-Devs/CodenameEngine/workflows/linux/main/Codename%20Engine.zip)
 
-### Credits;
 <details>
-  <summary><h2>Player QOL Features</h2></summary>
+  <summary><h2> #### Credits</h2></summary>
 #### Director(s):
 - [BoruIDK](https://twitter.com/BoruIDK)
 - MonoBW
