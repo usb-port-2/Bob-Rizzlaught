@@ -1,15 +1,22 @@
 <!DOCTYPE codename-engine-stage>
-<stage zoom="0.8" name="sunshine" folder="stages/peanutland/">
+<stage zoom="0.5" name="sunshine" folder="stages/peanutland/">
 	<sprite name="sky" x="-600" y="-500" sprite="sky"/>
-	<sprite name="clouds" x="-200" y="-100" sprite="clouds" scale="0.5" scroll="0.25"/>
-	<sprite name="mountains" x="-370" y="30" sprite="mountains" scroll="0.65" scale="0.8"/>
-	<sprite name="bignut" x="0" y="140" sprite="LARGEST_PEANUT" scale="0.85" scroll="0.7"/>
-	<sprite x="-190" y="90" sprite="flag" name="flag" scroll="0.7">
-        	<anim loop="true" anim="flag" fps="24" y="0" type="loop" name="idle"/>
+	<sprite name="clouds" x="-200" y="-500" sprite="clouds" scale="0.5" scroll="0.25"/>
+	<sprite name="mountains" x="-370" y="-80" sprite="mountains" scroll="0.65" scale="0.8"/>
+	<sprite name="bignut" x="-600" y="-400" sprite="BackStuff" scale="0.85" scroll="0.7"/>
+	<sprite name="ground" x="-900" y="730" sprite="ground" scale="1"/>
+	<sprite name="peanutland" x="-500" y="-280" sprite="frontstuff" scale="0.8"/>
+	<girlfriend alpha="0"/>
+    	<sprite x="200" y="275" sprite="oc" name="golden" scale="0.7">
+        	<anim loop="true" x="0" anim="golden" fps="24" y="0" type="loop" name="idle"/>
     	</sprite>
-	<sprite name="peanutland" x="-600" y="-230" sprite="peanutland" scale="0.8"/>
-	<girlfriend y="300" x="900"/>
-	<dad y="500" x="400"/>
-	<boyfriend x="1300" y="250"/>
-	
+	<dad y="190" x="400"/>
+	<combo x="1200" y="450"/>
+    	<sprite x="1800" y="400" sprite="oc" name="zim" scale="0.7">
+        	<anim loop="true" x="0" anim="zim" fps="24" y="0" type="loop" name="idle"/>
+    	</sprite>
+	<boyfriend x="1500" y="250"/>
+    	<sprite x="0" y="550" sprite="oc" name="cmd" scale="0.7" scrollx="1.1" scrolly="0.5">
+        	<anim loop="true" x="0" anim="commandprompt" fps="24" y="0" type="loop" name="idle"/>
+    	</sprite>
 </stage>

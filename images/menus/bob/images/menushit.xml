@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menushit.png">
+<SubTexture name="menushit0000" x="0" y="0" width="501" height="628" frameX="0" frameY="0" frameWidth="501" frameHeight="628" />
+<SubTexture name="menushit0001" x="501" y="0" width="501" height="628" frameX="0" frameY="0" frameWidth="501" frameHeight="628" />
+<SubTexture name="menushit0002" x="501" y="0" width="501" height="628" frameX="0" frameY="0" frameWidth="501" frameHeight="628" />
+<SubTexture name="menushit0003" x="0" y="0" width="501" height="628" frameX="0" frameY="0" frameWidth="501" frameHeight="628" />
+</TextureAtlas>

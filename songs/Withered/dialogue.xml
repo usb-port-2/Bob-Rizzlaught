@@ -1,0 +1,45 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+	<!-- All characters -->
+	<char name="madbob" char="madbob" position="left" />
+	<char name="confusedbob" char="confusedbob" position="left" />
+	<char name="boyfriend" char="boyfriend" position="right" />
+
+	<!-- Lines -->
+	<line char="boyfriend" playSound="dialogue/next" speed="0.08" textSound="dialogue/text-pixel" bubble="normal">
+		lil bro went silent after my beat dropped, fucking loser
+	</line>
+	<line char="madbob">
+		what was that for
+	</line>
+	<line char="boyfriend">
+		can you like get me out of here please
+	</line>
+	<line char="madbob">
+		shut the fuck up you big fat fuck bastard idiot
+	</line>
+	<line char="madbob">
+		eat more than tofu and salad, those shit don't work no-more thanks to your fucking weight.
+	</line>
+	<line char="boyfriend">
+		Hey buddy, watch it, i got 54 followers on my Twitter account, you're gonna get cancelled.
+	</line>
+	<line char="madbob">
+		fucking baby idiot guy man
+	</line>
+	<line char="boyfriend">
+		did you run out of things to say
+	</line>
+	<line char="madbob">
+		actually yeah i dont have any more ideas for the dialogue 
+	</line>
+	<line char="boyfriend">
+		ohio grimace shake
+	</line>
+	<line char="confusedbob">
+		man fuck you now this demo will have #OUTDATED memes in 2 years
+	</line>
+	<line char="boyfriend">
+		big chungus, you kinda look like
+	</line>
+</dialogue>

@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="0" icon="shuttleman" y="0" isGF="false" color="#FFFFFF" isPlayer="false" sprite="shuttleman">
+<character x="0" icon="shuttleman" y="0" isGF="false" color="#FFFFFF" isPlayer="false" sprite="shuttleman" camx="-100">
 	<anim x="0" loop="false" y="0" fps="24" anim="idle" name="idle"/>
 	<anim x="245" loop="false" y="423" fps="24" anim="up" name="singUP"/>
 	<anim x="-150" loop="false" y="-115" fps="24" anim="down" name="singDOWN"/>

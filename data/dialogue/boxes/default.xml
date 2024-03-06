@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-dialogue-box>
+<dialoguebox y="150" x="-50">
+	<text font="vcr.ttf" x="75" y="150" width="700" color="#000000" size="40"/>
+
+	<charpos name="left" x="-800" y="84" flipBubble="true"/>
+	<charpos name="right" x="500" y="84" flipBubble="false"/>
+
+	<anim name="normal" anim="textbox" fps="24" loop="true" x="-30"/>
+</dialoguebox>

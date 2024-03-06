@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="recycle bin.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="recycle_bin0000" x="1" y="1" width="74" height="81"/>
+	<SubTexture name="recycle_bin0001" x="1" y="1" width="74" height="81"/>
+	<SubTexture name="recycle_bin0002" x="76" y="1" width="74" height="81"/>
+	<SubTexture name="recycle_bin0003" x="76" y="1" width="74" height="81"/>
+</TextureAtlas>

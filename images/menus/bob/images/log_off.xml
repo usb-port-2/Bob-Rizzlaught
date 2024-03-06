@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="log off.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="log_off0000" x="1" y="1" width="92" height="34"/>
+	<SubTexture name="log_off0001" x="1" y="1" width="92" height="34"/>
+	<SubTexture name="log_off0002" x="1" y="36" width="92" height="34"/>
+	<SubTexture name="log_off0003" x="1" y="36" width="92" height="34"/>
+</TextureAtlas>

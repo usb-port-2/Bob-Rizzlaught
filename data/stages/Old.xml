@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.5" name="sunshine" folder="stages/old/">
+	<sprite name="sky" x="-1000" y="-200" sprite="sky" scale="2" scroll="0.9"/>
+    	<sprite x="-400" y="-100" sprite="clouds" name="clouds">
+        	<anim loop="true" x="0" anim="clouds" fps="24" y="0" type="loop" name="idle"/>
+    	</sprite>
+	<sprite name="mountains" x="-300" y="250" sprite="mountains" scale="0.45" scroll="1"/>
+    	<sprite x="1500" y="-250" sprite="sun" name="sun">
+        	<anim loop="true" x="0" anim="sun" fps="24" y="0" type="loop" name="idle"/>
+    	</sprite>
+	<sprite name="fg" x="-800" y="300" sprite="FG"/>
+	<girlfriend y="300" x="1400"/>
+	<dad y="700" x="900"/>
+	<boyfriend x="2200" y="350"/>
+	<sprite name="overlay" x="-1000" y="-500" sprite="overlay" scroll="0" scale="1.1"/>
+</stage>

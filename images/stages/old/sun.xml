@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="sun.png" width="3873" height="552">
+	<SubTexture name="sun0000" x="1543" y="1" width="579" height="547" frameX="-0" frameY="-3" frameWidth="589" frameHeight="558"/>
+	<SubTexture name="sun0001" x="2125" y="1" width="579" height="547" frameX="-0" frameY="-3" frameWidth="589" frameHeight="558"/>
+	<SubTexture name="sun0002" x="2707" y="1" width="584" height="548" frameX="-5" frameY="-2" frameWidth="589" frameHeight="558"/>
+	<SubTexture name="sun0003" x="2707" y="1" width="584" height="548" frameX="-5" frameY="-2" frameWidth="589" frameHeight="558"/>
+	<SubTexture name="sun0004" x="3294" y="1" width="578" height="550" frameX="-11" frameY="-0" frameWidth="589" frameHeight="558"/>
+	<SubTexture name="sun0005" x="3294" y="1" width="578" height="550" frameX="-11" frameY="-0" frameWidth="589" frameHeight="558"/>
+	<SubTexture name="sun0006" x="1" y="1" width="511" height="512" frameX="-50" frameY="-38" frameWidth="589" frameHeight="558"/>
+	<SubTexture name="sun0007" x="515" y="1" width="511" height="512" frameX="-50" frameY="-38" frameWidth="589" frameHeight="558"/>
+	<SubTexture name="sun0008" x="515" y="1" width="511" height="512" frameX="-50" frameY="-38" frameWidth="589" frameHeight="558"/>
+	<SubTexture name="sun0009" x="515" y="1" width="511" height="512" frameX="-50" frameY="-38" frameWidth="589" frameHeight="558"/>
+	<SubTexture name="sun0010" x="1029" y="1" width="511" height="512" frameX="-50" frameY="-38" frameWidth="589" frameHeight="558"/>
+	<SubTexture name="sun0011" x="1029" y="1" width="511" height="512" frameX="-50" frameY="-38" frameWidth="589" frameHeight="558"/>
+</TextureAtlas>

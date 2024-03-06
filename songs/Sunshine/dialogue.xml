@@ -1,0 +1,62 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+	<!-- All characters -->
+	<char name="bob-normal" char="bob" position="left" />
+	<char name="bob-look" char="bob" position="left" />
+	<char name="bob-mad" char="bob" position="left" />
+	<char name="bob-confused" char="bob" position="left" />
+	<char name="boyfriend" char="boyfriend" position="right" />
+
+	<!-- Lines -->
+	<line char="boyfriend">
+		Dude, Where the fuck am I?
+	</line>
+	<line char="bob-normal">
+		Hello, new boy.
+	</line>
+	<line char="boyfriend">
+		what the fuck
+	</line>
+	<line char="bob-look">
+		welcome to my Realm.
+	</line>
+	<line char="boyfriend">
+		Uhm, what are you.. even?
+	</line>
+	<line char="bob-mad">
+		that's my line dickhead
+	</line>
+	<line char="boyfriend">
+		Erm.
+	</line>
+	<line char="boyfriend">
+		what the fuck
+	</line>
+	<line char="boyfriend">
+		Can you actually like shut the fuck up
+	</line>
+	<line char="bob-mad">
+		you look stupid.
+	</line>
+	<line char="boyfriend">
+		:[
+	</line>
+	<line char="bob-look">
+		you are stuck within my realm, which you cannot escape.
+	</line>
+	<line char="boyfriend">
+		lets do a deal
+	</line>
+	<line char="boyfriend">
+		Rap battle, if I win I escape
+	</line>
+	<line char="bob-normal">
+		and If I win, i can kill you.
+	</line>
+	<line char="boyfriend">
+		 whatever #lifeisoverrated.
+	</line>
+	<line char="bob-confused">
+		bob reslaught demo dialogue
+	</line>
+</dialogue>

@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="0" icon="ron" y="0" isGF="false" color="#FFF200" flipX="true" isPlayer="false" gameOverChar="Ron Cross Court Edition" sprite="court-ron">
+<character x="0" icon="ron" camx="100" y="0" isGF="false" color="#FFF200" flipX="true" isPlayer="false" gameOverChar="Ron Cross Court Edition" sprite="court-ron">
 	<anim x="0" loop="false" y="0" fps="24" anim="idle" name="idle"/>
 	<anim x="35" loop="false" y="105" fps="24" anim="up0" name="singUP"/>
 	<anim x="45" loop="false" y="105" fps="24" anim="up_miss" name="singUPmiss"/>
