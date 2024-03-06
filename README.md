@@ -10,19 +10,19 @@
 - [Linux build](https://nightly.link/FNF-CNE-Devs/CodenameEngine/workflows/linux/main/Codename%20Engine.zip)
 
 <details>
-  <summary><h2> #### Credits</h2></summary>
-#### Director(s):
+  <summary><h2>Credits</h2></summary>
+**Director(s)**:
 - [BoruIDK](https://twitter.com/BoruIDK)
 - MonoBW
-#### Programmers:
+**Programmers**:
 - [Care](https://twitter.com/CaringVoid)
 - [JustJasonLol](https://twitter.com/JustJasonLol_)
 - X10V
-#### Artists:
-#### Composers:
-#### Charters:
-#### Playtesters:
-#### Special Thanks:
+**Artists:**
+**Composers:**
+**Charters:**
+**Playtesters:**
+**Special Thanks:**
 - Phlox
 - Wildythomas
 - Codename Engine Developers
